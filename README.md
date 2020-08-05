@@ -71,3 +71,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Notes
 
 Start json-server: "json-server db.json --port 4000"
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/L53c/reduxcrud.git
+git push -u origin master

@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111",
+      "id": 1
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "1",
+      "id": 2
+    },
+    {
+      "nombre": "Rib Eye 1kg",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "Saco de papas grande",
+      "precio": 4,
+      "id": 8
+    },
+    {
+      "nombre": "Sandía",
+      "precio": 2,
+      "id": 11
+    },
+    {
+      "nombre": "Calabaza",
+      "precio": 2,
+      "id": 12
+    },
+    {
+      "nombre": "Jugo de Piña",
+      "precio": 100,
+      "id": 13
+    },
+    {
+      "nombre": "test",
+      "precio": 3,
+      "id": 14
+    }
+  ]
+}
