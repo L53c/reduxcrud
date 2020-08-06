@@ -2,15 +2,6 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 
 const Header = () => {
-    // let mostrarFormulario = true;
-    // const mostrarBoton = (mostrarFormulario) => {
-    //     if (mostrarFormulario === true) {
-    //         mostrarFormulario = true;
-    //     } else {
-    //         mostrarFormulario = false;
-    //     }
-    //     return mostrarFormulario;
-    // }
     const [ formulario, mostrarformulario ] = useState(true);
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary justify-content-between">
